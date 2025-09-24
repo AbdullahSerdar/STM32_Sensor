@@ -1,0 +1,8 @@
+../Core/Src/gps.c:10:5:nmea0183_checksum	24	static
+../Core/Src/gps.c:20:6:separationGPSData	32	static
+../Core/Src/gps.c:55:6:sendLaLoUTC	16	static
+../Core/Src/gps.c:80:6:gpsSeparationWELL	16	static
+../Core/Src/gps.c:94:6:IntToChar	16	static
+../Core/Src/gps.c:99:9:CharToInt	24	static
+../Core/Src/gps.c:109:6:gpsSeparationRAW	16	static
+../Core/Src/gps.c:132:6:initGPS	24	static

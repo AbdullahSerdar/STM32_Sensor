@@ -1,0 +1,4 @@
+../Core/Src/driver_bmp390_fifo.c:48:9:bmp390_fifo_irq_handler	8	static
+../Core/Src/driver_bmp390_fifo.c:71:9:bmp390_fifo_init	24	static
+../Core/Src/driver_bmp390_fifo.c:371:9:bmp390_fifo_read	32	static
+../Core/Src/driver_bmp390_fifo.c:394:9:bmp390_fifo_deinit	16	static

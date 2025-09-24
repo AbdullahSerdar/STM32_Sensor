@@ -1,0 +1,11 @@
+../Core/Src/driver_bmp390_interface_template.c:46:9:bmp390_interface_iic_init	4	static
+../Core/Src/driver_bmp390_interface_template.c:58:9:bmp390_interface_iic_deinit	4	static
+../Core/Src/driver_bmp390_interface_template.c:74:9:bmp390_interface_iic_read	16	static
+../Core/Src/driver_bmp390_interface_template.c:90:9:bmp390_interface_iic_write	16	static
+../Core/Src/driver_bmp390_interface_template.c:102:9:bmp390_interface_spi_init	4	static
+../Core/Src/driver_bmp390_interface_template.c:114:9:bmp390_interface_spi_deinit	4	static
+../Core/Src/driver_bmp390_interface_template.c:129:9:bmp390_interface_spi_read	16	static
+../Core/Src/driver_bmp390_interface_template.c:144:9:bmp390_interface_spi_write	16	static
+../Core/Src/driver_bmp390_interface_template.c:154:6:bmp390_interface_delay_ms	16	static
+../Core/Src/driver_bmp390_interface_template.c:164:6:bmp390_interface_debug_print	4	static
+../Core/Src/driver_bmp390_interface_template.c:174:6:bmp390_interface_receive_callback	16	static

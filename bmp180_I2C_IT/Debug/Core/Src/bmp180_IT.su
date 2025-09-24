@@ -1,0 +1,10 @@
+../Core/Src/bmp180_IT.c:43:7:readTrueTemp	8	static
+../Core/Src/bmp180_IT.c:49:7:readTruePress	16	static
+../Core/Src/bmp180_IT.c:55:7:readTrueAltitude	16	static
+../Core/Src/bmp180_IT.c:60:10:readTempBPM180	16	static
+../Core/Src/bmp180_IT.c:73:10:readPressureBPM180	24	static
+../Core/Src/bmp180_IT.c:86:6:fillData	16	static
+../Core/Src/bmp180_IT.c:99:6:writeAndRead	40	static
+../Core/Src/bmp180_IT.c:121:6:calculateTemp	16	static
+../Core/Src/bmp180_IT.c:128:6:calculatePress	24	static
+../Core/Src/bmp180_IT.c:147:6:initialBMP180	40	static

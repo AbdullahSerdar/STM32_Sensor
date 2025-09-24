@@ -1,0 +1,3 @@
+../Core/Src/driver_bmp390_basic.c:50:9:bmp390_basic_init	24	static
+../Core/Src/driver_bmp390_basic.c:247:9:bmp390_basic_read	32	static
+../Core/Src/driver_bmp390_basic.c:271:9:bmp390_basic_deinit	8	static

@@ -1,0 +1,10 @@
+bmp180_IT.c:43:7:readTrueTemp	1
+bmp180_IT.c:49:7:readTruePress	1
+bmp180_IT.c:55:7:readTrueAltitude	1
+bmp180_IT.c:60:10:readTempBPM180	1
+bmp180_IT.c:73:10:readPressureBPM180	1
+bmp180_IT.c:86:6:fillData	1
+bmp180_IT.c:99:6:writeAndRead	6
+bmp180_IT.c:121:6:calculateTemp	1
+bmp180_IT.c:128:6:calculatePress	3
+bmp180_IT.c:147:6:initialBMP180	1
